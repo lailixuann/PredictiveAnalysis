@@ -1,2 +1,2 @@
 # PredictiveAnalysis
-By using Support Vector Machine (SVM) with a dataset provided. Quadratic Weighted Kappa (qwk) and confusion matrix are also used to check the performance of the model. The model will then be used to predict the score and the result will be submitted to Kaggle.
+This assignment is to conduct predictive analytics by using Support Vector Machine (SVM) with a dataset 'FIT1043-Essay-Features.csv' provided. In this assignment, train- test split, feature engineering, model fitting would be used to predict the students' scores based on their essay features. Quadratic Weighted Kappa (qwk) and confusion matrix are also used to check the performance of the model. The model will then be used to predict the score and the result will be submitted to Kaggle.
